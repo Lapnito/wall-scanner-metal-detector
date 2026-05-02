@@ -1,8 +1,11 @@
 <p align="center"><img src="assets/icon.png" alt="Wall Scanner" width="120" height="120" /></p>
 <h1 align="center">Duvar Tarayıcı ve Metal Dedektörü — Gerçek mikrotesla okuması</h1>
 <p align="center"><b>iPhone uygulaması; yerleşik manyetometre ile alçıpan arkasındaki çelik ahşap profilleri, demir boruları ve betonarme demirini bulur. Gerçek mikrotesla, sekiz kalibrasyonu, EMF modu. Tamamen çevrimdışı.</b></p>
-<p align="center"><a href="https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942"><img src="https://img.shields.io/badge/App%20Store-İndir-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
-<p align="center"><img src="https://img.shields.io/badge/Platform-iOS-blue" /> <img src="https://img.shields.io/badge/Fiyat-Ücretsiz-success" /> <img src="https://img.shields.io/badge/Gizlilik-Veri%20Toplanmaz-brightgreen" /> <img src="https://img.shields.io/badge/Sensörler-Manyetometre-orange" /></p>
+<p align="center"><a href="https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942"><img src="https://img.shields.io/badge/App%20Store-İndir-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+  <a href="https://play.google.com/store/apps/details?id=cz.lapnito.metalhunt">
+    <img src="https://img.shields.io/badge/Google%20Play-İndir-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" />
+  </a></p>
+<p align="center"><img src="https://img.shields.io/badge/Platform-iOS%20%7C%20Android-blue" /> <img src="https://img.shields.io/badge/Fiyat-Ücretsiz-success" /> <img src="https://img.shields.io/badge/Gizlilik-Veri%20Toplanmaz-brightgreen" /> <img src="https://img.shields.io/badge/Sensörler-Manyetometre-orange" /></p>
 <p align="center"><b>Diller:</b> <a href="README.md">English</a> · <a href="README.es.md">Español</a> · <a href="README.pt-BR.md">Português</a> · <a href="README.de.md">Deutsch</a> · <a href="README.fr.md">Français</a> · <a href="README.it.md">Italiano</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.pl.md">Polski</a> · <a href="README.cs.md">Čeština</a> · <a href="README.uk.md">Українська</a> · <a href="README.ru.md">Русский</a> · <a href="README.ar.md">العربية</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.zh-CN.md">中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.vi.md">Tiếng Việt</a> · <a href="README.th.md">ภาษาไทย</a></p>
 
 ---

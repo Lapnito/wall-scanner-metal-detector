@@ -12,6 +12,9 @@
   <a href="https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942">
     <img src="https://img.shields.io/badge/App%20Store-Télécharger-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="Télécharger sur l'App Store" />
   </a>
+  <a href="https://play.google.com/store/apps/details?id=cz.lapnito.metalhunt">
+    <img src="https://img.shields.io/badge/Google%20Play-Télécharger-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" />
+  </a>
 </p>
 
 <p align="center">

@@ -1,7 +1,10 @@
 <p align="center"><img src="assets/icon.png" alt="Wall Scanner" width="120" height="120" /></p>
 <h1 align="center">Сканер стен и Металлоискатель — Реальный отсчёт в микротеслах</h1>
 <p align="center"><b>Приложение iPhone, которое использует встроенный магнитометр для поиска стальных стоек, железных труб и арматуры за гипсокартоном. Реальный отсчёт в микротеслах, калибровка «восьмёркой», режим EMF. Полностью офлайн.</b></p>
-<p align="center"><a href="https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942"><img src="https://img.shields.io/badge/App%20Store-Скачать-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
+<p align="center"><a href="https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942"><img src="https://img.shields.io/badge/App%20Store-Скачать-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+  <a href="https://play.google.com/store/apps/details?id=cz.lapnito.metalhunt">
+    <img src="https://img.shields.io/badge/Google%20Play-Скачать-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" />
+  </a></p>
 <p align="center"><img src="https://img.shields.io/badge/Платформа-iOS-blue" /> <img src="https://img.shields.io/badge/Цена-Бесплатно-success" /> <img src="https://img.shields.io/badge/Конфиденциальность-Без%20Сбора-brightgreen" /> <img src="https://img.shields.io/badge/Сенсоры-Магнитометр-orange" /></p>
 <p align="center"><b>Языки:</b> <a href="README.md">English</a> · <a href="README.es.md">Español</a> · <a href="README.pt-BR.md">Português</a> · <a href="README.de.md">Deutsch</a> · <a href="README.fr.md">Français</a> · <a href="README.it.md">Italiano</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.pl.md">Polski</a> · <a href="README.cs.md">Čeština</a> · <a href="README.uk.md">Українська</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.ar.md">العربية</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.zh-CN.md">中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.vi.md">Tiếng Việt</a> · <a href="README.th.md">ภาษาไทย</a></p>
 
@@ -68,7 +71,7 @@
 **Обнаруживает золото/серебро?** Нет.
 **Почему ~50 μT без ничего?** Магнитное поле Земли.
 **Скачки 1000+ μT?** Магнит рядом или насыщение.
-**Почему только iPhone?** У Apple единое железо; у Android тысячи моделей.
+**Чем отличается Android-версия?** Точность магнитометра зависит от модели; на iPhone стабильнее.
 **Экспорт данных?** Да, CSV.
 **Точность?** ±1 μT после калибровки.
 
@@ -77,7 +80,7 @@
 | Платформа | Магазин | ID |
 |-----------|---------|----|
 | iOS | [App Store](https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942) | `id6764029942` |
-| Android | Недоступно — только iOS | — |
+| Android | [Google Play](https://play.google.com/store/apps/details?id=cz.lapnito.metalhunt) | Устройства с магнитометром |
 
 **Поддержка:** [github.com/Lapnito/wall-scanner-metal-detector/issues](https://github.com/Lapnito/wall-scanner-metal-detector/issues)
 

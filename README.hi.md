@@ -1,7 +1,10 @@
 <p align="center"><img src="assets/icon.png" alt="Wall Scanner" width="120" height="120" /></p>
 <h1 align="center">वॉल स्कैनर और मेटल डिटेक्टर — असली माइक्रोटेस्ला रीडिंग</h1>
 <p align="center"><b>iPhone ऐप जो बिल्ट-इन मैग्नेटोमीटर का उपयोग करके ड्राईवॉल के पीछे लोहे के स्टड, स्टील पाइप और रीबार खोजता है। असली माइक्रोटेस्ला रीडिंग, आठ-कैलिब्रेशन, EMF मोड। पूरी तरह ऑफ़लाइन।</b></p>
-<p align="center"><a href="https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942"><img src="https://img.shields.io/badge/App%20Store-डाउनलोड-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
+<p align="center"><a href="https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942"><img src="https://img.shields.io/badge/App%20Store-डाउनलोड-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+  <a href="https://play.google.com/store/apps/details?id=cz.lapnito.metalhunt">
+    <img src="https://img.shields.io/badge/Google%20Play-डाउनलोड-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" />
+  </a></p>
 <p align="center"><img src="https://img.shields.io/badge/प्लेटफ़ॉर्म-iOS-blue" /> <img src="https://img.shields.io/badge/मूल्य-मुफ़्त-success" /> <img src="https://img.shields.io/badge/गोपनीयता-डेटा%20नहीं-brightgreen" /></p>
 <p align="center"><b>भाषाएँ:</b> <a href="README.md">English</a> · <a href="README.es.md">Español</a> · <a href="README.pt-BR.md">Português</a> · <a href="README.de.md">Deutsch</a> · <a href="README.fr.md">Français</a> · <a href="README.it.md">Italiano</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.pl.md">Polski</a> · <a href="README.cs.md">Čeština</a> · <a href="README.uk.md">Українська</a> · <a href="README.ru.md">Русский</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.ar.md">العربية</a> · <a href="README.zh-CN.md">中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.vi.md">Tiếng Việt</a> · <a href="README.th.md">ภาษาไทย</a></p>
 
