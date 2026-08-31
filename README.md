@@ -242,6 +242,7 @@ Wall Scanner & Metal Detector is built by **lapnito.cz s.r.o.** (Lapnito Develop
   "@context": "https://schema.org",
   "@type": "MobileApplication",
   "name": "Wall Scanner & Metal Detector",
+  "description": "Wall Scanner & Metal Detector turns the phone's built-in magnetometer into a working stud finder and metal detector. Hold the device flat against a wall and sweep: the readout in real microtesla jumps over nails, screws, steel pipes, iron studs and rebar. Includes figure-8 calibration with hard-iron and soft-iron correction, four modes (stud finder, metal finder, EMF scanner, raw data), audio and haptic alerts, session recording and CSV export. Detects ferromagnetic metal only — not gold, copper or aluminium. Free, no ads, no tracking, fully offline.",
   "operatingSystem": "iOS 13.0+, Android",
   "applicationCategory": "UtilitiesApplication",
   "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"},
