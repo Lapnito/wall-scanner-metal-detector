@@ -90,6 +90,34 @@ Dibuat oleh **lapnito.cz s.r.o.** (Lapnito Development Studio).
 
 - **Email:** tom@lapnito.cz
 - **Aplikasi lain di App Store:** [lapnito.cz s.r.o.](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
+- **Aplikasi lain di Google Play:** [Lapnito Development Studio](https://play.google.com/store/apps/dev?id=8923575656207320763)
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "Wall Scanner & Metal Detector",
+  "inLanguage": "id",
+  "description": "Wall Scanner & Metal Detector mengubah magnetometer bawaan ponsel menjadi pencari rangka dinding dan detektor logam sungguhan. Tempelkan perangkat rata ke dinding lalu sapukan: angka dalam satuan mikrotesla asli melonjak saat melewati paku, sekrup, pipa baja, rangka besi, atau tulangan beton. Tersedia kalibrasi angka delapan dengan koreksi hard-iron dan soft-iron, empat mode (rangka, logam, pemindai EMF, data mentah), peringatan suara dan getaran, perekaman sesi, serta ekspor CSV. Hanya mendeteksi logam feromagnetik — bukan emas, tembaga, atau aluminium. Gratis, tanpa iklan, tanpa pelacakan, sepenuhnya offline.",
+  "operatingSystem": "iOS 13.0+, Android",
+  "applicationCategory": "UtilitiesApplication",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "url": "https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942",
+  "downloadUrl": "https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942",
+  "fileSize": "24.1 MB",
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz"
+  },
+  "featureList": "Stud finder, metal detector, EMF scanner, figure-8 calibration, CSV export, microtesla readout",
+  "applicationSubCategory": "Stud Finder, Magnetometer, EMF"
+}
+```
 
 ---
 

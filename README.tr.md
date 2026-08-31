@@ -90,6 +90,34 @@ Manyetometrenin fabrika sapmaları ve telefonun bileşenlerinden "sert demir" va
 
 - **E-posta:** tom@lapnito.cz
 - **App Store'da daha fazla uygulama:** [lapnito.cz s.r.o.](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
+- **Google Play'de daha fazla uygulama:** [Lapnito Development Studio](https://play.google.com/store/apps/dev?id=8923575656207320763)
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "Wall Scanner & Metal Detector",
+  "inLanguage": "tr",
+  "description": "Wall Scanner & Metal Detector, telefonun dahili manyetometresini gerçek bir profil bulucu ve metal dedektörüne dönüştürür. Cihazı duvara düz dayayıp tarayın: gerçek mikrotesla cinsinden ölçüm, çivi, vida, çelik boru, demir profil veya inşaat demirinin üzerinde belirgin şekilde yükselir. Sekiz çizerek kalibrasyon (hard-iron ve soft-iron düzeltmesiyle), dört mod (profil, metal, EMF tarayıcı, ham veri), sesli ve titreşimli uyarılar, oturum kaydı ve CSV dışa aktarma sunar. Yalnızca ferromanyetik metalleri algılar; altın, bakır veya alüminyumu bulmaz. Ücretsiz, reklamsız, izleme yok, tamamen çevrimdışı.",
+  "operatingSystem": "iOS 13.0+, Android",
+  "applicationCategory": "UtilitiesApplication",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "url": "https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942",
+  "downloadUrl": "https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942",
+  "fileSize": "24.1 MB",
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz"
+  },
+  "featureList": "Stud finder, metal detector, EMF scanner, figure-8 calibration, CSV export, microtesla readout",
+  "applicationSubCategory": "Stud Finder, Magnetometer, EMF"
+}
+```
 
 ---
 

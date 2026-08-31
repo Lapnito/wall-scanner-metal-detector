@@ -90,6 +90,34 @@
 
 - **邮箱：** tom@lapnito.cz
 - **App Store 上更多应用：** [lapnito.cz s.r.o.](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
+- **Google Play 上更多应用：** [Lapnito Development Studio](https://play.google.com/store/apps/dev?id=8923575656207320763)
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "Wall Scanner & Metal Detector",
+  "inLanguage": "zh-CN",
+  "description": "Wall Scanner & Metal Detector 把手机内置的磁力计变成真正的龙骨探测器和金属探测器。将手机平贴墙面缓慢扫过，以真实微特斯拉为单位的读数会在钉子、螺丝、钢管、铁质龙骨或钢筋上方明显跃升。应用提供“8字形”校准（含硬磁与软磁校正）、四种模式（龙骨、金属、EMF 扫描、原始数据）、声音与震动提示、测量记录以及 CSV 导出。它只能探测铁磁性金属，无法找到黄金、铜或铝。免费、无广告、无追踪，完全离线运行。",
+  "operatingSystem": "iOS 13.0+, Android",
+  "applicationCategory": "UtilitiesApplication",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "url": "https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942",
+  "downloadUrl": "https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942",
+  "fileSize": "24.1 MB",
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz"
+  },
+  "featureList": "Stud finder, metal detector, EMF scanner, figure-8 calibration, CSV export, microtesla readout",
+  "applicationSubCategory": "Stud Finder, Magnetometer, EMF"
+}
+```
 
 ---
 

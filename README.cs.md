@@ -166,6 +166,34 @@ Vyvíjí **lapnito.cz s.r.o.** (Lapnito Development Studio).
 
 - **E-mail:** tom@lapnito.cz
 - **Další aplikace v App Store:** [lapnito.cz s.r.o.](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
+- **Další aplikace na Google Play:** [Lapnito Development Studio](https://play.google.com/store/apps/dev?id=8923575656207320763)
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "Wall Scanner & Metal Detector",
+  "inLanguage": "cs",
+  "description": "Wall Scanner & Metal Detector promění vestavěný magnetometr telefonu ve skutečný detektor profilů a kovů. Přilož telefon naplocho ke stěně a přejížděj: údaj ve skutečných mikrotesslách vyskočí nad hřebíky, vruty, ocelovými trubkami, železnými profily nebo betonářskou výztuží. Nabízí kalibraci osmičkou s korekcí hard-iron i soft-iron, čtyři režimy (hledání profilů, kovu, EMF skener, surová data), zvukové i haptické upozornění, záznam měření a export do CSV. Detekuje pouze feromagnetické kovy — ne zlato, měď ani hliník. Zdarma, bez reklam, bez sledování a zcela offline.",
+  "operatingSystem": "iOS 13.0+, Android",
+  "applicationCategory": "UtilitiesApplication",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "url": "https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942",
+  "downloadUrl": "https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942",
+  "fileSize": "24.1 MB",
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz"
+  },
+  "featureList": "Stud finder, metal detector, EMF scanner, figure-8 calibration, CSV export, microtesla readout",
+  "applicationSubCategory": "Stud Finder, Magnetometer, EMF"
+}
+```
 
 ---
 

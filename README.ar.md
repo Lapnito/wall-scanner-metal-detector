@@ -91,6 +91,34 @@
 
 - **البريد:** tom@lapnito.cz
 - **مزيد من التطبيقات في App Store:** [lapnito.cz s.r.o.](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
+- **مزيد من التطبيقات على Google Play:** [Lapnito Development Studio](https://play.google.com/store/apps/dev?id=8923575656207320763)
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "Wall Scanner & Metal Detector",
+  "inLanguage": "ar",
+  "description": "يحوّل Wall Scanner & Metal Detector مقياس المغناطيسية المدمج في هاتفك إلى كاشف حقيقي للقوائم المعدنية والمعادن. ضع الهاتف مسطحاً على الجدار وحرّكه: تظهر القراءة بوحدات المايكروتسلا الحقيقية وترتفع بوضوح فوق المسامير والبراغي وأنابيب الفولاذ والقوائم الحديدية وحديد التسليح. يتضمن معايرة على شكل رقم ثمانية مع تصحيح الحديد الصلب واللين، وأربعة أوضاع (القوائم، المعادن، ماسح EMF، البيانات الخام)، وتنبيهات صوتية واهتزازية، وتسجيل الجلسات، وتصدير CSV. يكشف المعادن المغناطيسية فقط، لا الذهب أو النحاس أو الألمنيوم. مجاني، بلا إعلانات ولا تتبّع، ويعمل بالكامل دون إنترنت.",
+  "operatingSystem": "iOS 13.0+, Android",
+  "applicationCategory": "UtilitiesApplication",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "url": "https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942",
+  "downloadUrl": "https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942",
+  "fileSize": "24.1 MB",
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz"
+  },
+  "featureList": "Stud finder, metal detector, EMF scanner, figure-8 calibration, CSV export, microtesla readout",
+  "applicationSubCategory": "Stud Finder, Magnetometer, EMF"
+}
+```
 
 ---
 

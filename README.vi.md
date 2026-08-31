@@ -90,6 +90,34 @@ Phát triển bởi **lapnito.cz s.r.o.** (Lapnito Development Studio).
 
 - **Email:** tom@lapnito.cz
 - **Thêm ứng dụng trên App Store:** [lapnito.cz s.r.o.](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
+- **Thêm ứng dụng trên Google Play:** [Lapnito Development Studio](https://play.google.com/store/apps/dev?id=8923575656207320763)
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "Wall Scanner & Metal Detector",
+  "inLanguage": "vi",
+  "description": "Wall Scanner & Metal Detector biến từ kế tích hợp sẵn trong điện thoại thành máy dò xà gồ và máy dò kim loại thực thụ. Áp máy phẳng vào tường rồi quét: chỉ số theo đơn vị microtesla thật sẽ tăng vọt khi đi qua đinh, vít, ống thép, thanh sắt hoặc cốt thép. Ứng dụng có hiệu chuẩn hình số 8 kèm bù hard-iron và soft-iron, bốn chế độ (dò xà gồ, dò kim loại, quét EMF, dữ liệu thô), cảnh báo bằng âm thanh và rung, ghi lại phiên đo và xuất CSV. Chỉ phát hiện kim loại sắt từ — không dò được vàng, đồng hay nhôm. Miễn phí, không quảng cáo, không theo dõi, hoàn toàn ngoại tuyến.",
+  "operatingSystem": "iOS 13.0+, Android",
+  "applicationCategory": "UtilitiesApplication",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "url": "https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942",
+  "downloadUrl": "https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942",
+  "fileSize": "24.1 MB",
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz"
+  },
+  "featureList": "Stud finder, metal detector, EMF scanner, figure-8 calibration, CSV export, microtesla readout",
+  "applicationSubCategory": "Stud Finder, Magnetometer, EMF"
+}
+```
 
 ---
 

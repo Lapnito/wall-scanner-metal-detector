@@ -90,6 +90,34 @@
 
 - **ईमेल:** tom@lapnito.cz
 - **App Store पर अधिक ऐप्स:** [lapnito.cz s.r.o.](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
+- **Google Play पर अधिक ऐप्स:** [Lapnito Development Studio](https://play.google.com/store/apps/dev?id=8923575656207320763)
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "Wall Scanner & Metal Detector",
+  "inLanguage": "hi",
+  "description": "Wall Scanner & Metal Detector आपके फ़ोन के अंदर लगे मैग्नेटोमीटर को असली स्टड फ़ाइंडर और मेटल डिटेक्टर में बदल देता है। फ़ोन को दीवार पर सपाट रखकर घुमाएँ: कीलों, स्क्रू, स्टील पाइप, लोहे के स्टड या सरिये के ऊपर असली माइक्रोटेस्ला में रीडिंग तेज़ी से बढ़ जाती है। इसमें फ़िगर-8 कैलिब्रेशन के साथ हार्ड-आयरन और सॉफ़्ट-आयरन सुधार, चार मोड (स्टड, मेटल, EMF स्कैनर, रॉ डेटा), ध्वनि और हैप्टिक अलर्ट, सेशन रिकॉर्डिंग और CSV एक्सपोर्ट मिलते हैं। यह केवल लौहचुंबकीय धातु पहचानता है — सोना, तांबा या एल्युमिनियम नहीं। मुफ़्त, बिना विज्ञापन, बिना ट्रैकिंग, पूरी तरह ऑफ़लाइन।",
+  "operatingSystem": "iOS 13.0+, Android",
+  "applicationCategory": "UtilitiesApplication",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "url": "https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942",
+  "downloadUrl": "https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942",
+  "fileSize": "24.1 MB",
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz"
+  },
+  "featureList": "Stud finder, metal detector, EMF scanner, figure-8 calibration, CSV export, microtesla readout",
+  "applicationSubCategory": "Stud Finder, Magnetometer, EMF"
+}
+```
 
 ---
 

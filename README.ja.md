@@ -90,6 +90,34 @@
 
 - **メール：** tom@lapnito.cz
 - **App Storeの他のアプリ：** [lapnito.cz s.r.o.](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
+- **Google Playの他のアプリ：** [Lapnito Development Studio](https://play.google.com/store/apps/dev?id=8923575656207320763)
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "Wall Scanner & Metal Detector",
+  "inLanguage": "ja",
+  "description": "Wall Scanner & Metal Detector は、スマートフォンに内蔵された磁力計を本物の下地センサー兼金属探知機に変えるアプリです。端末を壁に平らに当ててなぞると、実際のマイクロテスラ値が釘・ビス・鋼管・鉄製スタッド・鉄筋の上で大きく跳ね上がります。ハードアイアン／ソフトアイアン補正付きの8の字キャリブレーション、4つのモード（下地・金属・EMFスキャナ・生データ）、音とハプティクスの通知、計測の記録、CSV書き出しに対応。検出できるのは強磁性金属のみで、金・銅・アルミは見つけられません。無料、広告なし、追跡なし、完全オフライン。",
+  "operatingSystem": "iOS 13.0+, Android",
+  "applicationCategory": "UtilitiesApplication",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "url": "https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942",
+  "downloadUrl": "https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942",
+  "fileSize": "24.1 MB",
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz"
+  },
+  "featureList": "Stud finder, metal detector, EMF scanner, figure-8 calibration, CSV export, microtesla readout",
+  "applicationSubCategory": "Stud Finder, Magnetometer, EMF"
+}
+```
 
 ---
 

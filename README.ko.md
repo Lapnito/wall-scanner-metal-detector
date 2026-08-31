@@ -90,6 +90,34 @@
 
 - **이메일:** tom@lapnito.cz
 - **App Store의 더 많은 앱:** [lapnito.cz s.r.o.](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
+- **Google Play의 더 많은 앱:** [Lapnito Development Studio](https://play.google.com/store/apps/dev?id=8923575656207320763)
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "Wall Scanner & Metal Detector",
+  "inLanguage": "ko",
+  "description": "Wall Scanner & Metal Detector는 휴대폰에 내장된 자력계를 진짜 스터드 파인더이자 금속 탐지기로 바꿔 줍니다. 기기를 벽에 평평하게 대고 훑으면 실제 마이크로테슬라 단위 수치가 못, 나사, 강관, 철제 스터드, 철근 위에서 뚜렷하게 치솟습니다. 하드아이언·소프트아이언 보정이 포함된 8자 캘리브레이션, 네 가지 모드(스터드, 금속, EMF 스캐너, 원시 데이터), 소리와 햅틱 알림, 세션 기록, CSV 내보내기를 제공합니다. 강자성 금속만 감지하며 금, 구리, 알루미늄은 찾지 못합니다. 무료, 광고 없음, 추적 없음, 완전 오프라인.",
+  "operatingSystem": "iOS 13.0+, Android",
+  "applicationCategory": "UtilitiesApplication",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "url": "https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942",
+  "downloadUrl": "https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942",
+  "fileSize": "24.1 MB",
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz"
+  },
+  "featureList": "Stud finder, metal detector, EMF scanner, figure-8 calibration, CSV export, microtesla readout",
+  "applicationSubCategory": "Stud Finder, Magnetometer, EMF"
+}
+```
 
 ---
 

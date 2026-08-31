@@ -175,6 +175,34 @@ Hecho por **lapnito.cz s.r.o.** (Lapnito Development Studio).
 
 - **Email:** tom@lapnito.cz
 - **Más apps en App Store:** [lapnito.cz s.r.o.](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
+- **Más apps en Google Play:** [Lapnito Development Studio](https://play.google.com/store/apps/dev?id=8923575656207320763)
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "Wall Scanner & Metal Detector",
+  "inLanguage": "es",
+  "description": "Wall Scanner & Metal Detector convierte el magnetómetro integrado del teléfono en un detector de vigas y de metales. Apoya el móvil en la pared y barre: la lectura real en microteslas sube al pasar sobre clavos, tornillos, tubos de acero, viguetas de hierro o varillas de hormigón armado. Incluye calibración en ocho con corrección de hierro duro y blando, cuatro modos (vigas, metal, escáner EMF y datos en bruto), avisos sonoros y hápticos, grabación de sesiones y exportación CSV. Solo detecta metales ferromagnéticos, no oro, cobre ni aluminio. Gratis, sin anuncios ni seguimiento, totalmente sin conexión.",
+  "operatingSystem": "iOS 13.0+, Android",
+  "applicationCategory": "UtilitiesApplication",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "url": "https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942",
+  "downloadUrl": "https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942",
+  "fileSize": "24.1 MB",
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz"
+  },
+  "featureList": "Stud finder, metal detector, EMF scanner, figure-8 calibration, CSV export, microtesla readout",
+  "applicationSubCategory": "Stud Finder, Magnetometer, EMF"
+}
+```
 
 ---
 

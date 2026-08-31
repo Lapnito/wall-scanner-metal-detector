@@ -242,7 +242,7 @@ Wall Scanner & Metal Detector is built by **lapnito.cz s.r.o.** (Lapnito Develop
   "@context": "https://schema.org",
   "@type": "MobileApplication",
   "name": "Wall Scanner & Metal Detector",
-  "operatingSystem": "iOS 13.0+",
+  "operatingSystem": "iOS 13.0+, Android",
   "applicationCategory": "UtilitiesApplication",
   "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"},
   "url": "https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942",
