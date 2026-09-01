@@ -34,7 +34,7 @@
 
 ## Wat is Wandscanner & Metaaldetector?
 
-**Wandscanner & Metaaldetector** is een gratis iPhone-app die de ingebouwde magnetometer in een werkende **stijlzoeker en metaaldetector** verandert. Houd het toestel plat tegen een wand en de app toont de lokale magnetische veldsterkte in echte microtesla (μT). Wanneer ijzer, staal of nikkel in de buurt komt, buigt het veld — de app toont je precies hoeveel, in real-time, met achtjes-kalibratie tegen eigen vooroordelen van de telefoon.
+**Wandscanner & Metaaldetector** is een gratis app voor iPhone en Android die de ingebouwde magnetometer in een werkende **stijlzoeker en metaaldetector** verandert. Houd het toestel plat tegen een wand en de app toont de lokale magnetische veldsterkte in echte microtesla (μT). Wanneer ijzer, staal of nikkel in de buurt komt, buigt het veld — de app toont je precies hoeveel, in real-time, met achtjes-kalibratie tegen eigen vooroordelen van de telefoon.
 
 Geen spel. Gebruikt dezelfde chip als de Kompas-app, leest echte SI-eenheden en zegt wat het **niet** kan vinden.
 
@@ -145,7 +145,7 @@ Magnetometer heeft fabrieksoffsets en hard-iron interferentie van eigen onderdel
 **Goud/zilver?** Nee.
 **Waarom ~50 μT zonder iets?** Aardmagnetisch veld.
 **Pieken 1000+ μT?** Magneet dichtbij of verzadiging. Magnetisch hoesje verwijderen.
-**Waarom alleen iPhone?** iPhone-hardware consistent; te veel Android-modellen.
+**Is er een Android-versie?** Ja, de app staat in Google Play. Het verschil zit in de hardware: de magnetometer van de iPhone is consistent over modellen heen, terwijl de nauwkeurigheid op de duizenden Android-toestellen varieert.
 **Data exporteren?** Ja, CSV.
 **Magnetische hoesjes?** Sterke interferentie — waarschuwing.
 **Elektrische kabels?** EMF bij benadering.
@@ -156,7 +156,7 @@ Magnetometer heeft fabrieksoffsets en hard-iron interferentie van eigen onderdel
 | Platform | Winkel | ID |
 |----------|--------|----|
 | iOS | [App Store](https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942) | `id6764029942` |
-| Android | Niet beschikbaar — alleen iOS | — |
+| Android | [Google Play](https://play.google.com/store/apps/details?id=cz.lapnito.metalhunt) | Toestellen met magnetometer |
 
 **Ondersteuning:** [github.com/Lapnito/wall-scanner-metal-detector/issues](https://github.com/Lapnito/wall-scanner-metal-detector/issues)
 
@@ -184,6 +184,7 @@ Gemaakt door **lapnito.cz s.r.o.** (Lapnito Development Studio).
   },
   "url": "https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942",
   "downloadUrl": "https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942",
+  "installUrl": ["https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942", "https://play.google.com/store/apps/details?id=cz.lapnito.metalhunt"],
   "fileSize": "24.1 MB",
   "author": {
     "@type": "Organization",

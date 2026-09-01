@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platforma-iOS-blue" />
+  <img src="https://img.shields.io/badge/Platforma-iOS%20%7C%20Android-blue" />
   <img src="https://img.shields.io/badge/Cena-Darmowa-success" />
   <img src="https://img.shields.io/badge/Prywatność-Bez%20Zbierania-brightgreen" />
   <img src="https://img.shields.io/badge/Sensory-Magnetometr-orange" />
@@ -34,7 +34,7 @@
 
 ## Czym jest Skaner Ścian i Wykrywacz Metali?
 
-**Skaner Ścian i Wykrywacz Metali** to darmowa aplikacja iPhone, która zamienia wbudowany magnetometr w działający **wykrywacz słupków i metalu**. Przyłóż telefon płasko do ściany, a aplikacja pokaże lokalne natężenie pola magnetycznego w prawdziwych mikroteslach (μT). Gdy żelazo, stal lub nikiel jest blisko, pole się ugina — aplikacja pokazuje dokładnie ile, w czasie rzeczywistym, z kalibracją w ósemkę usuwającą własne uprzedzenia telefonu.
+**Skaner Ścian i Wykrywacz Metali** to darmowa aplikacja na iPhone'a i Androida, która zamienia wbudowany magnetometr w działający **wykrywacz słupków i metalu**. Przyłóż telefon płasko do ściany, a aplikacja pokaże lokalne natężenie pola magnetycznego w prawdziwych mikroteslach (μT). Gdy żelazo, stal lub nikiel jest blisko, pole się ugina — aplikacja pokazuje dokładnie ile, w czasie rzeczywistym, z kalibracją w ósemkę usuwającą własne uprzedzenia telefonu.
 
 To nie gra. Używa tego samego chipa co Kompas, czyta prawdziwe jednostki SI i mówi, czego **nie** wykryje.
 
@@ -145,7 +145,7 @@ Magnetometr ma offsety fabryczne i twarde żelazo z własnych komponentów. **Fi
 **Złoto/srebro?** Nie.
 **Czemu ~50 μT bez nic?** Pole ziemskie.
 **Skoki 1000+ μT?** Magnes obok lub saturacja. Zdejmij etui magnetyczne.
-**Czemu tylko iPhone?** iPhone konsystentny; za dużo modeli Android.
+**Czy jest wersja na Androida?** Tak, aplikacja jest w Google Play. Różnica leży w sprzęcie: magnetometr w iPhone'ach jest spójny między modelami, a wśród tysięcy modeli z Androidem dokładność bywa różna.
 **Eksport?** Tak, CSV.
 **Etui magnetyczne?** Mocna interferencja — ostrzeżenie.
 **Kable elektryczne?** EMF orientacyjnie.
@@ -156,7 +156,7 @@ Magnetometr ma offsety fabryczne i twarde żelazo z własnych komponentów. **Fi
 | Platforma | Sklep | ID |
 |-----------|-------|----|
 | iOS | [App Store](https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942) | `id6764029942` |
-| Android | Niedostępne — tylko iOS | — |
+| Android | [Google Play](https://play.google.com/store/apps/details?id=cz.lapnito.metalhunt) | Urządzenia z magnetometrem |
 
 **Wsparcie:** [github.com/Lapnito/wall-scanner-metal-detector/issues](https://github.com/Lapnito/wall-scanner-metal-detector/issues)
 
@@ -184,6 +184,7 @@ Tworzy **lapnito.cz s.r.o.** (Lapnito Development Studio).
   },
   "url": "https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942",
   "downloadUrl": "https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942",
+  "installUrl": ["https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942", "https://play.google.com/store/apps/details?id=cz.lapnito.metalhunt"],
   "fileSize": "24.1 MB",
   "author": {
     "@type": "Organization",

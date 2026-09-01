@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Plattform-iOS-blue" />
+  <img src="https://img.shields.io/badge/Plattform-iOS%20%7C%20Android-blue" />
   <img src="https://img.shields.io/badge/Preis-Kostenlos-success" />
   <img src="https://img.shields.io/badge/Datenschutz-Keine%20Daten-brightgreen" />
   <img src="https://img.shields.io/badge/Sensoren-Magnetometer-orange" />
@@ -34,7 +34,7 @@
 
 ## Was ist Wandscanner & Metalldetektor?
 
-**Wandscanner & Metalldetektor** ist eine kostenlose iPhone-App, die das eingebaute Magnetometer als **Ständerfinder und Metalldetektor** nutzt. Halte das Telefon flach an die Wand und die App zeigt die Magnetfeldstärke in echten Mikrotesla (μT). Wenn Eisen, Stahl oder Nickel in der Nähe ist, biegt sich das Feld — die App zeigt dir genau wie viel, in Echtzeit, mit 8er-Kalibrierung gegen Eigenfelder des Telefons.
+**Wandscanner & Metalldetektor** ist eine kostenlose App für iPhone und Android, die das eingebaute Magnetometer als **Ständerfinder und Metalldetektor** nutzt. Halte das Telefon flach an die Wand und die App zeigt die Magnetfeldstärke in echten Mikrotesla (μT). Wenn Eisen, Stahl oder Nickel in der Nähe ist, biegt sich das Feld — die App zeigt dir genau wie viel, in Echtzeit, mit 8er-Kalibrierung gegen Eigenfelder des Telefons.
 
 Kein Spiel. Nutzt denselben Chip wie die Kompass-App, liefert echte SI-Einheiten und sagt dir, was es **nicht** finden kann.
 
@@ -184,6 +184,7 @@ Von **lapnito.cz s.r.o.** (Lapnito Development Studio).
   },
   "url": "https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942",
   "downloadUrl": "https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942",
+  "installUrl": ["https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942", "https://play.google.com/store/apps/details?id=cz.lapnito.metalhunt"],
   "fileSize": "24.1 MB",
   "author": {
     "@type": "Organization",

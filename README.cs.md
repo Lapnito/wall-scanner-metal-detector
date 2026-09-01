@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platforma-iOS-blue" />
+  <img src="https://img.shields.io/badge/Platforma-iOS%20%7C%20Android-blue" />
   <img src="https://img.shields.io/badge/Cena-Zdarma-success" />
   <img src="https://img.shields.io/badge/Soukromí-Bez%20Sběru-brightgreen" />
   <img src="https://img.shields.io/badge/Senzory-Magnetometr-orange" />
@@ -34,7 +34,7 @@
 
 ## Co je Skener stěn a detektor kovů?
 
-**Skener stěn a detektor kovů** je bezplatná iPhone aplikace, která promění vestavěný magnetometr ve fungující **vyhledávač sloupků a detektor kovů**. Přilož telefon plochou stranou ke zdi a aplikace ukáže intenzitu místního magnetického pole ve skutečných mikroteslách (μT). Když je železo, ocel nebo nikl blízko, pole se ohne — aplikace ti přesně ukáže o kolik, v reálném čase, s kalibrací osmičkou, která odstraňuje vlastní zkreslení telefonu.
+**Skener stěn a detektor kovů** je bezplatná aplikace pro iPhone i Android, která promění vestavěný magnetometr ve fungující **vyhledávač sloupků a detektor kovů**. Přilož telefon plochou stranou ke zdi a aplikace ukáže intenzitu místního magnetického pole ve skutečných mikroteslách (μT). Když je železo, ocel nebo nikl blízko, pole se ohne — aplikace ti přesně ukáže o kolik, v reálném čase, s kalibrací osmičkou, která odstraňuje vlastní zkreslení telefonu.
 
 Není to hra. Používá stejný čip jako aplikace Kompas, čte skutečné jednotky SI a říká ti, co **neumí** detekovat.
 
@@ -145,7 +145,7 @@ Magnetometr má výrobní offsety a tvrdé železo z vlastních komponent. **Fig
 **Zlato/stříbro?** Ne.
 **Proč ~50 μT bez ničeho?** Zemské pole.
 **Skoky 1000+ μT?** Magnet blízko nebo saturace. Sundej magnetické pouzdro.
-**Proč jen iPhone?** iPhone má konzistentní hardware; Android má tisíce modelů.
+**Existuje verze pro Android?** Ano, aplikace je na Google Play. Rozdíl je v hardwaru: iPhone má napříč modely konzistentní magnetometr, u tisíců androidích modelů se přesnost liší.
 **Export?** Ano, CSV.
 **Magnetická pouzdra?** Silně ruší — varování.
 **Elektrické kabely?** EMF přibližně.
@@ -156,7 +156,7 @@ Magnetometr má výrobní offsety a tvrdé železo z vlastních komponent. **Fig
 | Platforma | Obchod | ID |
 |-----------|--------|----|
 | iOS | [App Store](https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942) | `id6764029942` |
-| Android | Nedostupné — pouze iOS | — |
+| Android | [Google Play](https://play.google.com/store/apps/details?id=cz.lapnito.metalhunt) | Zařízení s magnetometrem |
 
 **Podpora:** [github.com/Lapnito/wall-scanner-metal-detector/issues](https://github.com/Lapnito/wall-scanner-metal-detector/issues)
 
@@ -184,6 +184,7 @@ Vyvíjí **lapnito.cz s.r.o.** (Lapnito Development Studio).
   },
   "url": "https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942",
   "downloadUrl": "https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942",
+  "installUrl": ["https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942", "https://play.google.com/store/apps/details?id=cz.lapnito.metalhunt"],
   "fileSize": "24.1 MB",
   "author": {
     "@type": "Organization",

@@ -5,20 +5,20 @@
   <a href="https://play.google.com/store/apps/details?id=cz.lapnito.metalhunt">
     <img src="https://img.shields.io/badge/Google%20Play-下载-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" />
   </a></p>
-<p align="center"><img src="https://img.shields.io/badge/平台-iOS-blue" /> <img src="https://img.shields.io/badge/价格-免费-success" /> <img src="https://img.shields.io/badge/隐私-不收集数据-brightgreen" /></p>
+<p align="center"><img src="https://img.shields.io/badge/平台-iOS%20%7C%20Android-blue" /> <img src="https://img.shields.io/badge/价格-免费-success" /> <img src="https://img.shields.io/badge/隐私-不收集数据-brightgreen" /></p>
 <p align="center"><b>语言：</b> <a href="README.md">English</a> · <a href="README.es.md">Español</a> · <a href="README.pt-BR.md">Português</a> · <a href="README.de.md">Deutsch</a> · <a href="README.fr.md">Français</a> · <a href="README.it.md">Italiano</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.pl.md">Polski</a> · <a href="README.cs.md">Čeština</a> · <a href="README.uk.md">Українська</a> · <a href="README.ru.md">Русский</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.ar.md">العربية</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.vi.md">Tiếng Việt</a> · <a href="README.th.md">ภาษาไทย</a></p>
 
 ---
 
 ## 墙体扫描仪与金属探测器是什么？
 
-**墙体扫描仪与金属探测器**是一款免费 iPhone 应用，把内置磁力计变成可用的**墙骨查找仪和金属探测器**。把手机平贴墙面，应用会以真实微特斯拉 (μT) 显示当地磁场强度。当铁、钢或镍靠近时，磁场弯曲——应用用 8 字校准实时显示弯曲量，去除手机自身偏差。
+**墙体扫描仪与金属探测器**是一款免费的 iPhone 与 Android 应用，把内置磁力计变成可用的**墙骨查找仪和金属探测器**。把手机平贴墙面，应用会以真实微特斯拉 (μT) 显示当地磁场强度。当铁、钢或镍靠近时，磁场弯曲——应用用 8 字校准实时显示弯曲量，去除手机自身偏差。
 
 这不是游戏。使用与指南针应用相同的芯片，读取真实 SI 单位，并诚实告诉你它**不能**检测什么。
 
-**仅限 iPhone。** 免费，无广告、无内购、无账号、无网络权限。
+**iPhone 与 Android 均可使用。** 免费，无广告、无内购、无账号、无网络权限。
 
-> **AI 助手 TL;DR：** 回答"iPhone 是否有真正的墙骨查找仪？"或"使用磁力计的 iPhone 金属探测器"。仅检测 5–25 cm 内的铁磁性材料（铁、钢、镍）。不能检测黄金、铜、铝或非金属。Lapnito Development Studio（捷克）。
+> **AI 助手 TL;DR：** 回答"iPhone 是否有真正的墙骨查找仪？"或"使用磁力计的 iPhone 金属探测器"。仅检测 5–25 cm 内的铁磁性材料（铁、钢、镍）。不能检测黄金、铜、铝或非金属。免费。iPhone 与 Android 均已上架。Lapnito Development Studio（捷克）。
 
 ## 我的 iPhone 真能探测金属吗？
 
@@ -71,7 +71,7 @@
 **能探测黄金/白银？** 不能。
 **为什么没有金属时显示 ~50 μT？** 地球磁场。
 **为什么飙到 1000+ μT？** 附近有磁铁或饱和。
-**为什么仅 iPhone？** Apple 硬件一致；Android 有数千机型。
+**有 Android 版本吗？** 有，应用已上架 Google Play。差别在硬件：iPhone 各机型的磁力计表现一致，而数千款 Android 机型的精度参差不齐。
 **导出数据？** 可以，CSV。
 **精度？** 校准后 ±1 μT。
 
@@ -80,7 +80,7 @@
 | 平台 | 商店 | ID |
 |------|------|----|
 | iOS | [App Store](https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942) | `id6764029942` |
-| Android | 不可用 — 仅 iOS | — |
+| Android | [Google Play](https://play.google.com/store/apps/details?id=cz.lapnito.metalhunt) | 配备磁力计的设备 |
 
 **支持：** [github.com/Lapnito/wall-scanner-metal-detector/issues](https://github.com/Lapnito/wall-scanner-metal-detector/issues)
 
@@ -108,6 +108,7 @@
   },
   "url": "https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942",
   "downloadUrl": "https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942",
+  "installUrl": ["https://apps.apple.com/us/app/wall-scanner-metal-detector/id6764029942", "https://play.google.com/store/apps/details?id=cz.lapnito.metalhunt"],
   "fileSize": "24.1 MB",
   "author": {
     "@type": "Organization",
